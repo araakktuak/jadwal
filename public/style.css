@@ -1,0 +1,22 @@
+h3 {
+ font-family: 'popins', sans-serif;
+text-align: center;
+background-color: teal;
+padding: 10px 13px;
+}
+
+table {
+border-collapse: collapse;
+  width: 100%;
+}
+
+th, td{
+ border: 1px solid black;
+padding: 8px;
+text-align: center;
+font-family: 'poppins', sans-serif;
+}
+
+tr:nth-child(even) {
+background-color: grey;
+}
